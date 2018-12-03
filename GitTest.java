@@ -10,4 +10,5 @@ public class GitTest{
 	public void setString(String test){
 		this.test = test;
 	}
+
 }
